@@ -12,7 +12,7 @@ Um den Simulator zu testen, wird zusätzlich ein Operator-Programm benötigt, we
 https://github.com/danielobrist/TelloDemoCommander eine Demo-Applikation zur Verfügung.
 
 
-== Operator-Programm mit der Simulator-API verbinden:
+== Verbinden mit dem Simulator-API:
 
 //TODO: Anforderungsänderung "muss im WLAN funktionieren" --> TelloSDKValues / Verbindung mit anderen IPs erklären
 Die Verbindung mit dem Simulator ist sehr ähnlich wie mit der echten Drohne. Allerdings gibt es systembedingt ein paar Unterschiede. Falls der Simulator auf dem gleichen Gerät wie der Operator läuft, verwendet er
