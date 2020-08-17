@@ -15,11 +15,11 @@ Neuere Versionen können auch funktionieren. Ab IntelliJ IDEA 2020.1 können JDK
 
 *Schritt 1:* Repository in gewünschtes lokales Verzeichnis klonen (z.B. mit Git Bash / Terminal):
 
-`git clone \https://github.com/DieterHolz/TelloSimulator`
+`git clone \https://github.com/danielobrist/TelloSimulatorTest`
 
 *Schritt 2:* Kommandozeile im TelloSimulator Verzeichnis öffnen:
 
-`cd TelloSimulator`
+`cd TelloSimulatorTest`
 
 *Schritt 3:* Start via Gradle Wrapper.:
 
@@ -36,7 +36,7 @@ JAVA_HOME ändern: https://javatutorial.net/set-java-home-windows-10 oder https:
 
 image::screenshot01.PNG[width=400]
 
-*Schritt 2:* Repository URL `\https://github.com/DieterHolz/TelloSimulator` und lokales Directory definieren. Mit 'Clone' den Klon-Vorgang starten.
+*Schritt 2:* Repository URL `\https://github.com/danielobrist/TelloSimulatorTest` und lokales Directory definieren. Mit 'Clone' den Klon-Vorgang starten.
 
 image::screenshot02.PNG[width=600]
 
